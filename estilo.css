@@ -1,0 +1,24 @@
+.cuadro{
+	width: 25%;
+	height: 100px;
+	background-color:red; 
+	border: 2px black solid;
+}
+
+body>div{
+	border: 5px blue solid;
+	background-color:blue;
+}
+
+.inline{
+	display: inline;
+}
+
+.floating{
+	float:left;
+}
+
+.clearfix{
+	overflow: auto;
+}
+
